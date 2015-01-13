@@ -1,0 +1,37 @@
+# Chapter 1
+
+## This is about software.
+
+This book is not about a specific program, app, or game. 
+
+It is about the brains of software developers, and how to use them better. This
+is especially interesting if you happen to be 
+    a) a software developer or someone who works with software developers
+    b) the owner of a brain.
+
+
+## We want to help you think more clearly.
+
+We find that a better (if imperfect) understanding how our brains work helps
+us to manage stress and complexity better, helps us get more work done, and
+helps us to understand when we should stop or pause.
+
+The ideas in this book have been harvested from experts by us. We're not 
+organizational psychologist by trade, but developers and consultants and
+trainers and managers (each of us is all 4). We will explain these ideas
+as we understand them, and describe how using these ideas has helped us.
+
+## We needed to think more clearly.
+
+We could have quit our jobs, earned advanced degrees in psychology, and 
+then sat down to write a book, but we didn't. We have work to do.
+
+In fact, that's why we are writing this... we need to think clearly and
+remind ourselves of why we learned these things just as much as we want
+to help you.
+
+So... enjoy, give feedback, correct us, cite us, argue with us.
+
+It should be fun.
+
+
